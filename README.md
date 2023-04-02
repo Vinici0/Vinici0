@@ -5,13 +5,6 @@ Hola, mi nombre es Vinicio Borja 👋
 
 Soy Ingeniero en Tecnologías de la Información💻 con experiencia en tecnologías de front-end y back-end. Me encanta enfrentar desafíos y encontrar soluciones innovadoras y eficientes. He adquirido habilidades en el desarrollo de aplicaciones web de alta calidad y soluciones personalizadas para satisfacer las necesidades específicas de los clientes. Trabajo en equipo y siempre busco tener una perspectiva diversa y valiosa en mi campo.
 
-🎯 Mi público objetivo son empresas que buscan soluciones personalizadas y de alta calidad en el desarrollo de software.
-
-👨‍💻 Mi método se basa en la creación de soluciones innovadoras y eficientes, siempre enfocados en satisfacer las necesidades específicas de mis clientes. Además, me enfoco en el uso de las mejores prácticas y tecnologías para garantizar la calidad y seguridad de las soluciones que desarrollo.
-
-📲 Si estás buscando soluciones personalizadas para el desarrollo de software, ¡conéctate conmigo! Me encantaría ayudarte a llevar tus proyectos al siguiente nivel.
-
-
 ## Tecnologías:
 #### Desarrollo Móvil:
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
