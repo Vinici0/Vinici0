@@ -1,6 +1,6 @@
-Hola, mi nombre es Vinicio Borja 👋
+Hola, mi nombre es Vinicio Borja 👋<br>
+**GitHub secundario:** 👉https://github.com/LeonardoB-10👈
 ### Freelance full-stack
-
 ![https://github.com/mouredev](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)
 
 Soy Ingeniero en Tecnologías de la Información💻 con experiencia en tecnologías de front-end y back-end. Me encanta enfrentar desafíos y encontrar soluciones innovadoras y eficientes. He adquirido habilidades en el desarrollo de aplicaciones web de alta calidad y soluciones personalizadas para satisfacer las necesidades específicas de los clientes. Trabajo en equipo y siempre busco tener una perspectiva diversa y valiosa en mi campo.
