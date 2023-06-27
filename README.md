@@ -9,7 +9,6 @@ Como Ingeniero en Tecnologías de la Información con experiencia tanto en tecno
 ## Tecnologías:
 #### Desarrollo Móvil:
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)]()
 #### Desarrollo Web:
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
