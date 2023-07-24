@@ -1,7 +1,6 @@
 Hola, mi nombre es Vinicio Borja 👋<br>
 
 ### Freelance full-stack
-![https://github.com/mouredev](https://res.cloudinary.com/dmkvix7ds/image/upload/v1680412806/maxresdefault_mnjyjk.jpg)
 
 Como Ingeniero en Tecnologías de la Información con experiencia tanto en tecnologías de front-end como de back-end, estoy comprometido con el progreso en todos los aspectos de mi vida. Como emprendedor nato, siempre estoy buscando nuevas oportunidades para crecer profesionalmente. Soy adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Soy autodidacta y siempre estoy dispuesto a aceptar nuevos desafíos. Además, soy atento, organizado y, sobre todo, responsable en todo lo que hago.
 
