@@ -2,7 +2,7 @@
 
 ### Full Stack
 
-Como Ingeniero en Tecnologías de la Información con experiencia tanto en tecnologías de front-end como de back-end, estoy comprometido con el progreso en todos los aspectos de mi vida. Como emprendedor nato, siempre estoy buscando nuevas oportunidades para crecer profesionalmente. Soy adaptable y me siento cómodo trabajando en una amplia variedad de entornos. Soy autodidacta y siempre estoy dispuesto a aceptar nuevos desafíos. Además, soy atento, organizado y, sobre todo, responsable en todo lo que hago.
+Soy un apasionado por la mejora continua y el desarrollo de soluciones innovadoras en el ámbito de la ingeniería de software. Mi enfoque se centra en combinar creatividad y análisis para diseñar, implementar y optimizar sistemas que aporten valor real. Destaco por mi capacidad para resolver problemas complejos, adaptarme rápidamente a nuevos entornos y aprender de manera autodidacta. Mi compromiso con la excelencia me impulsa a enfrentar desafíos con determinación, trabajar en equipo y contribuir al crecimiento tanto personal como colectivo. Mi objetivo es transformar ideas en resultados concretos que marquen una diferencia.
 
 
 ## Tecnologías:
