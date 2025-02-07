@@ -1,8 +1,8 @@
-## Hola, mi nombre es Vinicio Borja 👋<br>
+## Hello, my name is Vinicio Borja 👋<br>
 
-### Full Stack
+### Software Engineer
 
-Soy un apasionado por la mejora continua y el desarrollo de soluciones innovadoras en el ámbito de la ingeniería de software. Mi enfoque se centra en combinar creatividad y análisis para diseñar, implementar y optimizar sistemas que aporten valor real. Destaco por mi capacidad para resolver problemas complejos, adaptarme rápidamente a nuevos entornos y aprender de manera autodidacta. Mi compromiso con la excelencia me impulsa a enfrentar desafíos con determinación, trabajar en equipo y contribuir al crecimiento tanto personal como colectivo. Mi objetivo es transformar ideas en resultados concretos que marquen una diferencia.
+I am passionate about continuous improvement and the development of innovative solutions in the field of software engineering. My approach focuses on combining creativity and analysis to design, implement, and optimize systems that deliver real value. I stand out for my ability to solve complex problems, quickly adapt to new environments, and learn independently. My commitment to excellence drives me to tackle challenges with determination, work effectively in teams, and contribute to both personal and collective growth. My goal is to transform ideas into tangible results that make a difference.
 
 
 ## Tecnologías:
